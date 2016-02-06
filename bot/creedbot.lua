@@ -536,7 +536,7 @@ To tags the every one and sends your message at bottom
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
 
-our channel : @creedantispam_channel
+our channel :
 کانال ما
 
 You Can user both "!" & "/" for them
